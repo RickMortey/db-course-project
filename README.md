@@ -31,4 +31,4 @@ Dockerfile-compose файле. Из директории с файлом:
 
 
 ## Логическая модель
-<img src="./pic/logical_model.png" width="600"/>  
+<img src="./pics/logical_model.png" width="600"/>  
